@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Задание 3. Использование линий</title>
+</head>
+<body>
+
+<center>
+    <hr size="10" width="50%" color="red">
+    <hr size="10" width="50%" color="orange">
+    <hr size="10" width="50%" color="yellow">
+    <hr size="10" width="50%" color="green">
+    <hr size="10" width="50%" color="lightblue">
+    <hr size="10" width="50%" color="blue">
+    <hr size="10" width="50%" color="violet">
+</center>
+
+</body>
+</html>
