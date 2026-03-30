@@ -1,0 +1,19 @@
+<!doctype html>
+<html>
+<head>
+<title>Задание 2. Создание таблицы
+по образцу</title>
+</head>
+<body>
+<p align="center"> Примеры таблиц
+<hr size="4">
+<b> Стандартная таблица
+<table align="center" width="100%" border="1" cellspacing="0">
+<caption valign="top" align="left"><b>Заголовок таблицы</b></caption>
+<tr> <td align="center">Один </td> <td align="center">Два</td> <td align="center">Три </td>
+</tr>
+<tr> <th align="left">Четыре</th> <th align="left">Пять</th> <th align="left">Шесть</th> 
+</tr>
+</table> 
+</body>
+</html>
